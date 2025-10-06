@@ -14,6 +14,10 @@ A powerful AI agent system for video processing and analysis, built with multimo
 Second component - API, Stateful agents and MCP Clients
 
 
+<p align="center">
+  <img src="https://github.com/danial-shehroz-khan/video-agent/blob/master/Second%20component%20-%20API%2C%20Stateful%20agents%20and%20MCP%20Clients.png" width="800" />
+</p>
+
 ## Features
 
 - **Video Processing**: Advanced video analysis and processing capabilities
