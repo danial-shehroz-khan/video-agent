@@ -2,6 +2,11 @@
 
 A powerful AI agent system for video processing and analysis, built with multimodal capabilities.
 
+## Demo
+
+![Video Agent Demo](https://your-gif-url-here.gif)
+*Replace this URL with your actual demo GIF showing the HAL 9000 interface in action*
+
 ## Features
 
 - **Video Processing**: Advanced video analysis and processing capabilities
