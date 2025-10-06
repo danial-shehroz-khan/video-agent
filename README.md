@@ -5,8 +5,11 @@ A powerful AI agent system for video processing and analysis, built with multimo
 ## Demo
 
 [Video Agent Demo] = https://youtu.be/Tf463Nc4D-I
-https://github.com/danial-shehroz-khan/video-agent/blob/master/whole%20system%20diagram-32e86eeb-d01a-43b5-ad5f-c6cbbeb103f3.png
 
+
+<p align="center">
+  <img src="https://github.com/danial-shehroz-khan/video-agent/blob/master/whole%20system%20diagram-32e86eeb-d01a-43b5-ad5f-c6cbbeb103f3.png" width="800" />
+</p>
 
 ## Features
 
