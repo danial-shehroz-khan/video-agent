@@ -4,7 +4,7 @@ A powerful AI agent system for video processing and analysis, built with multimo
 
 ## Demo
 
-![Video Agent Demo](https://your-gif-url-here.gif)
+![Video Agent Demo]()
 *Replace this URL with your actual demo GIF showing the HAL 9000 interface in action*
 
 ## Features
